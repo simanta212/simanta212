@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simanta212&label=Profile%20views&color=0e75b6&style=flat" alt="simanta212" /> </p>
 
 
-- 🔭 I’m currently working on **python projects**
+- 🔭 I’m currently working on **python, .Net projects**
 
-- 🌱 I’m currently learning **Python, Flask**
+- 🌱 I’m currently learning **C#, .Net MVC/Core**
 
-- 🤝 I’m looking for help with **python projects**
+- 🤝 I’m looking for help with **API**
 
 - 💬 Ask me about **anything!**
 
